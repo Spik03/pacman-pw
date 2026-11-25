@@ -45,7 +45,6 @@ pacman-pw/
 ├── PHP/                            # Endpoint server-side (login, registrazione, salvataggio score, classifica)
 ├── Sprite/                         # Asset grafici
 ├── index.php                       # Entry point principale dell'applicazione full-stack
-├── .gitignore
 └── README.md
 ```
 
