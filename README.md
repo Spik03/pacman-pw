@@ -4,7 +4,7 @@ Implementazione web full-stack di una versione arcade ispirata a **Pac-Man**, sv
 
 Sviluppato da **Marco Pio Spicuzza** per il corso di **Progettazione Web** presso l'**Università di Pisa** (Corso di Laurea Triennale in Ingegneria Informatica).
 
-![Gameplay Screenshot](Docs/screenshot.png)
+![Gameplay Screenshot](Docs/Screenshot.png)
 
 ---
 
